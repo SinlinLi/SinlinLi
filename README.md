@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinlin</h1>
-<h3 align="center">Programmer|Composer|Chinatown Brainpower Club Member</h3>
+<h3 align="center">Programmer|Composer|Member of Chinatown Brainpower Club</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlinli&label=Profile%20views&color=0e75b6&style=flat" alt="sinlinli" /> </p>
 
