@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinlin</h1>
-<h3 align="center">A student majoring in computer science.</h3>
+<h3 align="center">Programmer|Composer|Chinatown Brainpower Club Member</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlinli&label=Profile%20views&color=0e75b6&style=flat" alt="sinlinli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinlinli" alt="sinlinli" /></a> </p>
 
 - 🌱 I’m currently learning **fine-tuning of LLM.**
 
