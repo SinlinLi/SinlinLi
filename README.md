@@ -1,14 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sinlin</h1>
-<h3 align="center">Programmer|Composer|Member of Chinatown Brainpower Club</h3>
+<h1 align="center">Hi, I'm Sinlin 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlinli&label=Profile%20views&color=0e75b6&style=flat" alt="sinlinli" /> </p>
-
-- 🌱 I’m currently learning **fine-tuning of LLM.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/sinlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sinlin" height="30" width="40" /></a>
+<p align="center">
+  <b>Aspiring Quant Dev · Competitive Programmer · Composer</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinlinli&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://codeforces.com/profile/sinlin"><img src="https://img.shields.io/badge/Codeforces-sinlin-1F8ACB?logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+
+- 🎓 B.S. in Computer Science
+- 💹 Interested in cryptocurrency & quantitative trading
+- 🤖 Passionate about AI
+- 🏆 Competitive Programmer (ICPC / CCPC)
+- 🎵 Musician on NetEase Cloud Music
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---------|------------|-------|
+| [quant-engine](https://github.com/SinlinLi/quant-engine) | Event-driven crypto backtesting engine with C++ core + Python strategy layer | C++17 · pybind11 · ClickHouse |
+| [airqr](https://github.com/SinlinLi/airqr) | Offline-first secure QR code generator & scanner | HTML · JS · Docker |
+| [BetaGo](https://github.com/SinlinLi/BetaGo) | AlphaGo Zero-inspired Go AI with MCTS + RL | Python · PyTorch |
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
