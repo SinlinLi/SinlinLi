@@ -27,6 +27,8 @@
 |---------|------------|-------|
 | [quant-engine](https://github.com/SinlinLi/quant-engine) | Event-driven crypto backtesting engine with C++ core + Python strategy layer | C++17 · pybind11 · ClickHouse |
 | [airqr](https://github.com/SinlinLi/airqr) | Offline-first secure QR code generator & scanner | HTML · JS · Docker |
+| [airbox](https://github.com/SinlinLi/airbox) | Browser-side RSA encryption. Single HTML file, zero dependencies | HTML · JS |
+| [bsc-block-delay](https://github.com/SinlinLi/bsc-block-delay) | Precise BSC block propagation delay measurement | Python |
 | [BetaGo](https://github.com/SinlinLi/BetaGo) | AlphaGo Zero-inspired Go AI with MCTS + RL | Python · PyTorch |
 
 ---
@@ -36,6 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
