@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sinlin 👋</h1>
 
 <p align="center">
-  <b>Aspiring Quant Dev · Competitive Programmer · Composer</b>
+  <b>Dev · Competitive Programmer · Composer</b>
 </p>
 
 <p align="center">
