@@ -26,10 +26,13 @@
 | Project | Description | Stack |
 |---------|------------|-------|
 | [quant-engine](https://github.com/SinlinLi/quant-engine) | Event-driven crypto backtesting engine with C++ core + Python strategy layer | C++17 · pybind11 · ClickHouse |
-| [airqr](https://github.com/SinlinLi/airqr) | Offline-first secure QR code generator & scanner | HTML · JS · Docker |
+| [inkmo](https://github.com/SinlinLi/inkmo) | Typora-like WYSIWYG Markdown editor for Chinese & English writers | TypeScript |
+| [airqr](https://github.com/SinlinLi/airqr) | Secure, offline QR code generator. All data stays in your browser | HTML · JS · Docker |
 | [airbox](https://github.com/SinlinLi/airbox) | Browser-side RSA encryption. Single HTML file, zero dependencies | HTML · JS |
 | [bsc-block-delay](https://github.com/SinlinLi/bsc-block-delay) | Precise BSC block propagation delay measurement | Python |
 | [BetaGo](https://github.com/SinlinLi/BetaGo) | AlphaGo Zero-inspired Go AI with MCTS + RL | Python · PyTorch |
+| [VB-neural-network](https://github.com/SinlinLi/VB-neural-network) | Neural network implemented in Excel VBA | VBA |
+| [ResearchItem](https://github.com/SinlinLi/ResearchItem) | Minecraft Bukkit plugin for custom research mechanics | Java |
 
 ---
 
@@ -38,6 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
