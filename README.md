@@ -21,6 +21,12 @@
 
 ---
 
+### Open Source Contributions
+
+| Project | Description | Role |
+|---------|------------|------|
+| [happyclaw](https://github.com/riba2534/happyclaw) | Self-hosted multi-user AI Agent system (700+ ⭐) | Contributor — IM integrations, plugin system, multi-user isolation |
+
 ### Projects
 
 | Project | Description | Stack |
